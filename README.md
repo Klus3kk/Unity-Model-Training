@@ -17,4 +17,3 @@ After that, play the game and watch the AI learning!
 
 
 You can follow the [ML-Agents installation guide](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md) if you haven't done so already.
-
